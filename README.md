@@ -5,7 +5,7 @@
 <br>
 
 - 👋 Hi, My name is Arif Hayati Indah Lestari, and you can call me **"Indah"**. I still learning, and have enthusiast with frontend and data analyst.
-- 👀 I’m interested in Web Programming & Data analyst
+- 👀 I’m interested in Web Programming & Data Science
 - 🌱 I’m currently learning Web Designing (FrontEnd) & Machine Learning
 - 📫 arifhayatiindahlestari@gmail.com
 
